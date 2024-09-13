@@ -1,0 +1,4 @@
+[autorun]
+icon=drive.ico
+open=launch.bat
+shell\open\command=launch.bat
